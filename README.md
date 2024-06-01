@@ -8,7 +8,7 @@ Jr Developer | Automation Technician
 &nbsp;&nbsp;<img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg"/>&nbsp;&nbsp;
           
 ### 📲 Contact me
-<a href="https://www.linkedin.com/in/gabriel-moura-9bb610310/">
+&nbsp;&nbsp;<a href="https://www.linkedin.com/in/gabriel-moura-9bb610310/">
 &nbsp;&nbsp;<img width='20' height='20' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>&nbsp;&nbsp;
 
 
