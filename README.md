@@ -1,4 +1,4 @@
-# 👋 Hi there
+# 👋 Hi there, welcome!
 Jr Developer | Automation Technician
 
 ### 🚀 Skills
