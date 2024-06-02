@@ -1,14 +1,16 @@
-# 👋 *Hi there, welcome!*
+# 👋 Hi there, welcome!
 
-**Jr Developer** | Automation Technician
+Jr Developer | Automation Technician
 
 ##
 
-### 🚀 *Skills*
+### 🚀 Skills
+
 &nbsp;&nbsp;<img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>&nbsp;&nbsp;
 &nbsp;&nbsp;<img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg"/>&nbsp;&nbsp;
           
-### 📱 *Contact me*
+### 📱 Contact me
+
 <div>
   <a 
      href="https://www.linkedin.com/in/gabriel-moura-9bb610310/" 
