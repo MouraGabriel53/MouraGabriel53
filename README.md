@@ -1,6 +1,8 @@
 # 👋 Hi there, welcome!
 
-Jr Developer | Automation Technician
+- Jr Developer | Automation Technician
+- Determination
+- Less is more
 
 ##
 
