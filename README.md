@@ -19,4 +19,11 @@
      target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-  <a
+  
+### Visit now
+
+ <a 
+     href="https://github.com/MouraGabriel53/Python_Things" 
+     target="_blank">
+    <img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+  </a>
