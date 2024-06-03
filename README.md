@@ -1,6 +1,6 @@
 # 👋 Hi there, welcome!
 
-- Jr Developer | Automation Technician
+- Aspiring Developer | Automation Technician
 - Determination
 - Less is more
 
