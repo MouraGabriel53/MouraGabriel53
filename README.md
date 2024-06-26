@@ -28,6 +28,6 @@
 
 ### ⭐ My favorite
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-![git-hub-readme-stats](https://github-readme-stats.vercel.app/api/pin/?username=MouraGabriel53\&repo=Python_Things&cache_seconds=86400&theme=swift)
+<a href="https://github.com/MouraGabriel53/Python_Things">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MouraGabriel53&repo=Python_Things&theme=swift" />
 </a>
