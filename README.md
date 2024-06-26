@@ -24,7 +24,8 @@
 
 ![MouraGabriel53's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MouraGabriel53\&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=swift)
 
-![git-hub-readme-stats](https://github-readme-stats.vercel.app/api/pin/?username=MouraGabriel53\&repo=Python_Things&cache_seconds=86400&theme=swift)
-
 ![Top_Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MouraGabriel53\&layout=compact) 
 
+### ⭐ My favorite
+
+![git-hub-readme-stats](https://github-readme-stats.vercel.app/api/pin/?username=MouraGabriel53\&repo=Python_Things&cache_seconds=86400&theme=swift)
