@@ -15,10 +15,10 @@
 
 <p align="left">
   <a href="mailto:contato.gabrielnmoura@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:brunomessias46@gmail.com" alt="Gmail" /></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:contato.gabrielnmoura@gmail.com" alt="Gmail" /></a>
 
   <a href="https://www.linkedin.com/in/gabriel-moura-9bb610310/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunomessiasaguiar/" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-moura-9bb610310/" alt="LinkedIn"/></a>
 
 ### 🔝 Coding Stats
 
@@ -29,5 +29,5 @@
 ### ⭐ My favorite
 
 <a href="https://github.com/MouraGabriel53/Python_Things">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MouraGabriel53&repo=Python_Things&theme=swift" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MouraGabriel53&repo=Python_Things&theme=swift"/>
 </a>
