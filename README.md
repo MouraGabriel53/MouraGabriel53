@@ -2,7 +2,7 @@
 
 - Aspiring Developer | Automation Technician
 - Determination
-- Less is more
+- Drink water 
 
 ##
 
