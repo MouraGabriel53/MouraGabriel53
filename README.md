@@ -1,34 +1,58 @@
-# 👋 Hi there, welcome!
+# 👋 Olá, seja bem-vindo ao meu GitHub!
 
-- Aspiring Developer | Automation Technician
-- Determination
-- Drink water 
+## Sobre Mim
+- **Desenvolvedor em formação | Técnico em Automação**
+- **Determinado** em aprender e evoluir constantemente
+- Sempre lembrando de **beber água** 💧
 
-##
+---
 
-### 🚀 Skills
+### 🚀 Minhas Habilidades
 
-&nbsp;&nbsp;<img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>&nbsp;&nbsp;
-&nbsp;&nbsp;<img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg"/>&nbsp;&nbsp;
-&nbsp;&nbsp;<img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>&nbsp;&nbsp;       
-          
-### 📱 Contact me
+<p align="left">
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"/>&nbsp;&nbsp;
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" title="C++"/>&nbsp;&nbsp;
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript"/>&nbsp;&nbsp;
+</p>
+
+---
+
+### 📱 Vamos nos conectar!
 
 <p align="left">
   <a href="mailto:contato.gabrielnmoura@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:contato.gabrielnmoura@gmail.com" alt="Gmail" /></a>
-
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:contato.gabrielnmoura@gmail.com" alt="Gmail" />
+  </a>
+  
   <a href="https://www.linkedin.com/in/gabrielnmoura/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-moura-9bb610310/" alt="LinkedIn"/></a>
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielnmoura/" alt="LinkedIn"/>
+  </a>
+</p>
 
-### 🔝 Coding Stats
+---
 
-![MouraGabriel53's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MouraGabriel53\&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=swift)
+### 🔝 Estatísticas de Código
 
-![Top_Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MouraGabriel53\&layout=compact) 
+Aqui estão algumas estatísticas do meu GitHub que mostram meu progresso e contribuições:
 
-### ⭐ My favorite
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MouraGabriel53&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=swift)
+
+---
+
+### 📊 Linguagens que mais uso
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MouraGabriel53&layout=compact)
+
+---
+
+### ⭐ Meu projeto favorito
+
+Aqui está um dos meus projetos que você pode conferir:
 
 <a href="https://github.com/MouraGabriel53/Python_Things">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MouraGabriel53&repo=Python_Things&theme=swift"/>
 </a>
+
+---
+
+**Obrigado por visitar meu perfil!** 😊
