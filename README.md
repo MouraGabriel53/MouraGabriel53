@@ -1,13 +1,13 @@
-# 👋 Olá, seja bem-vindo ao meu GitHub!
+# 👋 Hello, welcome to my GitHub!
 
-## Sobre Mim
-- **Desenvolvedor em formação | Técnico em Automação**
-- **Determinado** em aprender e evoluir constantemente
-- Sempre lembrando de **beber água** 💧
+## About Me
+- **Developer in training | Automation Technician**
+- **Determined** to learn and evolve constantly
+- Always remembering to **stay hydrated** 💧
 
 ---
 
-### 🚀 Minhas Habilidades
+### 🚀 My Skills
 
 <p align="left">
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"/>&nbsp;&nbsp;
@@ -17,7 +17,7 @@
 
 ---
 
-### 📱 Vamos nos conectar!
+### 📱 Let's Connect!
 
 <p align="left">
   <a href="mailto:contato.gabrielnmoura@gmail.com" title="Gmail">
@@ -31,23 +31,23 @@
 
 ---
 
-### 🔝 Estatísticas de Código
+### 🔝 Code Stats
 
-Aqui estão algumas estatísticas do meu GitHub que mostram meu progresso e contribuições:
+Here are some GitHub stats that show my progress and contributions:
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MouraGabriel53&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=swift)
-
----
-
-### 📊 Linguagens que mais uso
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MouraGabriel53&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MouraGabriel53&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=swift)
 
 ---
 
-### ⭐ Meu projeto favorito
+### 📊 Languages I Use the Most
 
-Aqui está um dos meus projetos que você pode conferir:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MouraGabriel53&layout=compact)
+
+---
+
+### ⭐ My Favorite Project
+
+Here is one of my projects for you to check out:
 
 <a href="https://github.com/MouraGabriel53/Python_Things">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MouraGabriel53&repo=Python_Things&theme=swift"/>
@@ -55,4 +55,5 @@ Aqui está um dos meus projetos que você pode conferir:
 
 ---
 
-**Obrigado por visitar meu perfil!** 😊
+**Thank you for visiting my profile!** 😊
+
