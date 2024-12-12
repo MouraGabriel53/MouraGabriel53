@@ -1,4 +1,4 @@
-# 👋 Hello, welcome to my GitHub!
+<h1 align="center"> 👋 Hello, welcome to my GitHub! </h1>
 
 ## About Me
 - **Developer in training | Automation Technician**
@@ -55,8 +55,3 @@ Here is one of my projects for you to check out:
 <a href="https://github.com/MouraGabriel53/DevLinks">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MouraGabriel53&repo=DevLinks&theme=swift"/>
 </a>
-
----
-
-**Thank you for visiting my profile!** 😊
-
