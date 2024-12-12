@@ -53,7 +53,7 @@ Here are some GitHub stats that show my progress and contributions:
 Here is one of my projects for you to check out:
 
 <a href="https://github.com/MouraGabriel53/DevLinks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MouraGabriel53&repo=Python_Things&theme=swift"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MouraGabriel53&repo=DevLinks&theme=swift"/>
 </a>
 
 ---
