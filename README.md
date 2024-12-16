@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 My Skills
+### 🚀 Skills
 
 <p align="center">
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"/>&nbsp;&nbsp;
@@ -44,7 +44,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MouraGabriel53&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-### ⭐ My Favorite Project
+### ⭐ Favorites Projects
 
 <a href="https://github.com/MouraGabriel53/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MouraGabriel53&repo=Python_Things&theme=dark" />
