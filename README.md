@@ -36,9 +36,9 @@
 
 ### 🔝 Code Stats
 
-Here are some GitHub stats that show my progress and contributions:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MouraGabriel53&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=swift)
+<a href="https://github.com/Mouragabriel53/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MouraGabriel53&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=swift" />
+</a>
 
 ---
 
@@ -55,3 +55,4 @@ Here is one of my projects for you to check out:
 <a href="https://github.com/MouraGabriel53/DevLinks">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MouraGabriel53&repo=DevLinks&theme=swift"/>
 </a>
+
