@@ -46,7 +46,7 @@
 
 ### ⭐ Favorites Projects
 
-<a href="https://github.com/MouraGabriel53/Python_Things">
+<a href="https://github.com/MouraGabriel53/AutomacaoPY_Arquivos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MouraGabriel53&repo=AutomacaoPY_Arquivos&theme=dark" />
 </a>
 <a href="https://github.com/MouraGabriel53/DevLinks">
