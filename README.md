@@ -1,9 +1,4 @@
-
-
-
-<h1 align="center">👋 Hello, welcome to my GitHub!</h1>
-
-![Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub)
+![Banner](https://github.com/MouraGabriel53/MouraGabriel53/blob/main/Capa.png)
 
 ---
 
