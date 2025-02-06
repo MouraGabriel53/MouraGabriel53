@@ -46,4 +46,5 @@ I am an **IT Trainee** at **Grafcet Soluções Tecnológicas**, located in Tatua
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
+
 ---
