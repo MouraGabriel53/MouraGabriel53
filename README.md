@@ -4,7 +4,13 @@
 
 ### 👀 About Me 🇧🇷 🇺🇸  
 
-I am an **IT Trainee** at **Grafcet Soluções Tecnológicas**, located in Tatuapé, São Paulo. Currently, I am pursuing a degree in **Analysis and Systems Development (ADS)** at **Cruzeiro do Sul Virtual**.
+I am an **IT Trainee** at **Grafcet Soluções Tecnológicas**, located in Tatuapé, São Paulo. Currently studying a degree in **Systems Analysis and Development (ADS, pt-br)** at **Cruzeiro do Sul Virtual.**
+I have a technical degree in **Industrial Automation** 🦾 from **ETEC Presidente Vargas.**
+There, I discovered my passion for the tech field 💻. I always enjoyed embedded systems programming classes—they were a moment of relaxation amid a whirlwind 🥵 of lessons and work.
+Since then, I have been striving to deepen my knowledge of programming.
+- 🖤 code
+- 🔎 Minimalist
+- 📌 Full Stack Developer
 
 ### 🛠️ Skills  
 
