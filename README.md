@@ -1,4 +1,4 @@
-![Banner](https://github.com/MouraGabriel53/MouraGabriel53/blob/main/project-01.png)
+<img src="https://github.com/MouraGabriel53/MouraGabriel53/blob/main/project-01.png?raw=true" alt="Banner" width="1020"/>
 
 ---
 
