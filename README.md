@@ -1,4 +1,4 @@
-![Banner](https://github.com/MouraGabriel53/MouraGabriel53/blob/main/Capa.png)
+![Banner](https://github.com/MouraGabriel53/MouraGabriel53/blob/main/project-01.png)
 
 ---
 
