@@ -1,4 +1,4 @@
-<img src="https://github.com/MouraGabriel53/MouraGabriel53/blob/main/project-01.png?raw=true" alt="Banner" width="1020"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=128&pause=1000&color=F7F7F7&vCenter=true&width=1000&height=150&lines=Gabriel+Moura." alt="Typing SVG" /></a>
 
 ---
 
