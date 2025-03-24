@@ -1,5 +1,17 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=128&pause=1000&color=F7F7F7&vCenter=true&width=1000&height=150&lines=Gabriel+Moura." alt="Typing SVG" /></a>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabrielnmoura/" target="_blank">
+     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+    <a href="mailto:contato.gabrielnmoura@gmail.com" target="_blank">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="email logo"  />
+  </a>
+    <a href="https://mouragabriel53.github.io/SiteProfile/" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)" height="25" alt="github pages logo"  />
+  </a>
+</div>
+
 ---
 
 ### 👀 About Me 🇧🇷 🇺🇸  
@@ -30,24 +42,10 @@ I am an **IT Trainee** at **Grafcet Soluções Tecnológicas**, located in Tatua
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MouraGabriel53&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-### ⭐ Favorite Projects  
+### ⭐ Favorite Project 
 
 <a href="https://github.com/MouraGabriel53/AutomacaoPY_Arquivos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MouraGabriel53&repo=AutomacaoPY_Arquivos&theme=dark" />
 </a>
-<a href="https://github.com/MouraGabriel53/DevLinks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MouraGabriel53&repo=DevLinks&theme=dark" />
-</a>
-
-### 📫 Let's Connect!  
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/gabrielnmoura/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:contato.gabrielnmoura@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
 
 ---
